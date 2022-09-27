@@ -1,6 +1,7 @@
-### Hi there 👋
+### Olá, eu sou a Laísa 👋
 
 <!--
+Estudante de Análise e Desenvolvimento de Sistemas na Fatec José Crespo Gonzales.
 **laisabortolini/laisabortolini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
